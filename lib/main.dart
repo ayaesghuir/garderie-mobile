@@ -60,7 +60,7 @@ class _SplashScreenState extends State<SplashScreen> {
             const Text(
               'Ma Garderie',
               style: TextStyle(
-                fontSize: 30,
+                fontSize: 28,
                 fontWeight: FontWeight.bold,
                 color: Colors.deepOrange,
               ),
